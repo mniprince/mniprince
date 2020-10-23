@@ -2,7 +2,9 @@
 
 I am is Monirul Islam Prince.
 #### Design & Development
-![Design & Development](https://pbs.twimg.com/profile_banners/744620423715815425/1603397664/600x200)
+![Design & Development]
+![mniprince](https://user-images.githubusercontent.com/40088619/97052070-2a177e00-15a2-11eb-8791-5294dd5c54a7.jpg)
+
 
 I am Monirul Islam Prince from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing,
 
