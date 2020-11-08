@@ -14,8 +14,5 @@ Skills: JAVA/ PHP / HTML / CSS / MYSQL / SQL / FIREBASE / GMAP
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mniprince"><img src="https://user-images.githubusercontent.com/40088619/98482542-554dce80-222c-11eb-8ba8-bd48a9f1274e.png" align="right" height="275" /></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mniprince&show_icons=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mniprince&show_icons=true) 
+  
