@@ -5,7 +5,7 @@
 I am Monirul Islam Prince from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing,
 
 Skills: JAVA/ PHP / HTML / CSS / MYSQL / SQL / FIREBASE / GMAP
-
+![coding-freak](https://user-images.githubusercontent.com/40088619/98481895-d787c400-2227-11eb-8f61-6a66ffa2d9dd.gif)
 - 🔭 I’m currently working on My own Company 
 
 
