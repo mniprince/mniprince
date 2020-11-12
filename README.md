@@ -19,3 +19,9 @@ Skills: JAVA/ PHP / HTML / CSS / MYSQL / SQL / FIREBASE / GMAP
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mniprince)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Work
+![SVID-20201112-025050](https://user-images.githubusercontent.com/40088619/98977750-280e6280-2543-11eb-916e-4aa4828d5736.gif)
+
+
+![VID-20201112-030234](https://user-images.githubusercontent.com/40088619/98977768-2cd31680-2543-11eb-9a57-3f0fc1077189.gif)
