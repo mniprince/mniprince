@@ -23,9 +23,11 @@ Skills: JAVA/ PHP / HTML / CSS / MYSQL / SQL / FIREBASE / GMAP
 ### My Work
 <img src="https://user-images.githubusercontent.com/40088619/98977768-2cd31680-2543-11eb-9a57-3f0fc1077189.gif" align="left" /></a>
 <img src="https://user-images.githubusercontent.com/40088619/98977750-280e6280-2543-11eb-916e-4aa4828d5736.gif" align="right"  /></a>
+</br>
 
 ### Contact
-![princeqr](https://user-images.githubusercontent.com/40088619/99901060-144ec300-2cde-11eb-9c8c-41548002ec05.png)
+
+<img src="https://user-images.githubusercontent.com/40088619/99901060-144ec300-2cde-11eb-9c8c-41548002ec05.png" align="left" /></a>
 
 
 
