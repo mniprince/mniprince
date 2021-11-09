@@ -10,12 +10,20 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 - 🔭 I’m currently working on My own Company 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=5405265530863735793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vrantoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vranto_bilash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miprince109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='website' height='40'>](https://mniprince.github.io)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='website' height='40'>](https://laracasts.com/@mniprince) 
+
+
+
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='website' height='40'>](https://stackoverflow.com/users/13227609/monirul-islam-prince?tab=profile) 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/envato.svg' alt='website' height='40'>](https://codecanyon.net/user/mniprince) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mniprince) 
 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+<a href="https://stackoverflow.com/users/13227609/visal-rajapakse">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24">
+                                                        <!-- ^ Change this to your reputation -->
+</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mniprince&show_icons=true) <img src="https://user-images.githubusercontent.com/40088619/98482542-554dce80-222c-11eb-8ba8-bd48a9f1274e.png" align="right" height="275" /></a>
 
