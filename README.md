@@ -91,7 +91,7 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -105,7 +105,9 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 
 - 🔭 I’m currently working on My own Company 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=5405265530863735793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vrantoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vranto_bilash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miprince109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='website' height='40'>](https://mniprince.github.io)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='website' height='40'>](https://laracasts.com/@mniprince) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=5405265530863735793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vrantoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vranto_bilash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miprince109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='website' height='40'>](https://mniprince.github.io)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='website' height='40'>](https://laracasts.com/@mniprince) 
+[<img src='https://cdn.worldvectorlogo.com/logos/google-developers.svg' alt='website' height='40'>](https://g.dev/mniprince) 
 
 
 
