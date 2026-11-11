@@ -167,8 +167,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Pre
       </a>
       <br />
       <strong>Tulos</strong><br />
-      Full-stack ecommerce — Next.js 16 + Tailwind v4<br />
-      <a href="https://tulos.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      Full-stack ecommerce — Laravel<br />
+      <a href="https://www.gomamu.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
       <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
@@ -176,7 +176,8 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Pre
  
 </table>
 ### Contact
-![princeqr](https://user-images.githubusercontent.com/40088619/99901060-144ec300-2cde-11eb-9c8c-41548002ec05.png)
+Phone: 01711368394
+Mail: mniprince@gmail.com
 
 
 ### My Work
