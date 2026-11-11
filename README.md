@@ -141,29 +141,29 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Pre
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://princefullstack.com/">
-        <img src="./assets/projects/entry.jpg" alt="Entry ecommerce monorepo" width="400" />
+        <img src="./assets/projects/st80tk.png" alt="shokhertola80taka" width="400" />
       </a>
       <br />
-      <strong>Entry</strong><br />
+      <strong>Shokher tola 80 taka</strong><br />
       Production full-stack ecommerce monorepo<br />
-      <a href="https://entry.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://shokhertola80taka.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
       <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://princefullstack.com/">
-        <img src="./assets/projects/gofarm.jpg" alt="GoFarm Pro" width="400" />
+        <img src="./assets/projects/Cl.png" alt="GoFarm Pro" width="400" />
       </a>
       <br />
-      <strong>GoFarm Pro</strong><br />
-      Next.js 16 multi-vendor agricultural store<br />
-      <a href="https://gofarm.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <strong>Leather Store</strong><br />
+      Laravel Leather store<br />
+      <a href="https://careleatherbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
       <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://princefullstack.com/">
-        <img src="./assets/projects/tulos.jpg" alt="Tulos ecommerce" width="400" />
+        <img src="./assets/projects/gomamu.png" alt="Leather ecommerce" width="400" />
       </a>
       <br />
       <strong>Tulos</strong><br />
