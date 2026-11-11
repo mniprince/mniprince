@@ -103,7 +103,7 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 </tbody>
 </table>
 
-- 🔭 I’m currently working on My own Company 
+- 🔭 I’m currently working with Laravel, React, Next.js and Spring boot
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=5405265530863735793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vrantoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vranto_bilash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miprince109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='website' height='40'>](https://mniprince.github.io)   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='website' height='40'>](https://laracasts.com/@mniprince) 
@@ -123,12 +123,58 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
                                                         <!-- ^ Change this to your reputation -->
 </a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mniprince&show_icons=true) <img src="https://user-images.githubusercontent.com/40088619/98482542-554dce80-222c-11eb-8ba8-bd48a9f1274e.png" align="right" height="275" /></a>
+## Featured work
 
+Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Preview and **Source** open the paid kit; **Live** is the demo only.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mniprince)](https://github.com/anuraghazra/github-readme-stats)
-
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://princefullstack.com/">
+        <img src="./assets/projects/aparel.png" alt="apparelmartbrand.com" width="400" />
+      </a>
+      <br />
+      <strong>Apparel mart Store</strong><br />
+      Ecommerce — web, admin, and API<br />
+      <a href="https://apparelmartbrand.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://princefullstack.com/">
+        <img src="./assets/projects/entry.jpg" alt="Entry ecommerce monorepo" width="400" />
+      </a>
+      <br />
+      <strong>Entry</strong><br />
+      Production full-stack ecommerce monorepo<br />
+      <a href="https://entry.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://princefullstack.com/">
+        <img src="./assets/projects/gofarm.jpg" alt="GoFarm Pro" width="400" />
+      </a>
+      <br />
+      <strong>GoFarm Pro</strong><br />
+      Next.js 16 multi-vendor agricultural store<br />
+      <a href="https://gofarm.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://princefullstack.com/">
+        <img src="./assets/projects/tulos.jpg" alt="Tulos ecommerce" width="400" />
+      </a>
+      <br />
+      <strong>Tulos</strong><br />
+      Full-stack ecommerce — Next.js 16 + Tailwind v4<br />
+      <a href="https://tulos.reactbd.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
+      <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
+    </td>
+  </tr>
+ 
+ 
+</table>
 ### Contact
 ![princeqr](https://user-images.githubusercontent.com/40088619/99901060-144ec300-2cde-11eb-9c8c-41548002ec05.png)
 
