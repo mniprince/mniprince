@@ -25,98 +25,39 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-772953?style=for-the-badge&logo=Java)
 
-## Tech Stack :computer:
+## 🛠️ Tech Stack
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
-</td>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb&perline=10" alt="Stack row 1" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,graphql,firebase,redis,tailwind,docker,aws,gcp,vercel&perline=10" alt="Stack row 2" />
+  <img src="https://skillicons.dev/icons?i=netlify,git,github,githubactions,vscode,figma,postman,npm,pnpm,linux&perline=10" alt="Stack row 3" />
+</div>
 
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
-</td>
+<br/>
 
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
-</tr>
+**Frontend** — HTML, CSS, JavaScript, ajax, bootstrap, Tailwind CSS  
+**Mobile** — Java, Kotlin  
+**Backend** — Node.js, Express, REST API  
+**Data** — MongoDB, mysql, Firebase 
+**Platform** — VPS, Cpanel, GitHub, Play Console
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nginx.svg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+---
 
 - 🔭 I’m currently working with Laravel, React, Next.js and Spring boot
+<img align="right" src="./assets/github/Right_Side.gif?raw=true" width=30%>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=5405265530863735793)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vrantoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vranto_bilash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miprince109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpack.svg' alt='website' height='40'>](https://mniprince.github.io)   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='website' height='40'>](https://laracasts.com/@mniprince) 
-[<img src='https://cdn.worldvectorlogo.com/logos/google-developers.svg' alt='website' height='40'>](https://g.dev/mniprince) 
-
-
-
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='website' height='40'>](https://stackoverflow.com/users/13227609/monirul-islam-prince?tab=profile) 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/envato.svg' alt='website' height='40'>](https://codecanyon.net/user/mniprince) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mniprince) 
+[<img src='https://cdn.worldvectorlogo.com/logos/google-developers.svg' alt='website' height='40'>](https://g.dev/mniprince) 
 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 <a href="https://stackoverflow.com/users/13227609/visal-rajapakse">
     <img src="https://img.shields.io/badge/Stack%20Overflow-802-F47F24">
@@ -125,7 +66,7 @@ Skills: JAVA / PHP / Android / Laravel / HTML / CSS / Bootstrap / MYSQL / SQL / 
 
 ## Featured work
 
-Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Preview and **Source** open the paid kit; **Live** is the demo only.
+Latest **Source Code** for paid projects; **Live Projects** attached below.
 
 <table>
   <tr>
@@ -175,17 +116,27 @@ Latest kits from [reactbd.com/en/projects](https://reactbd.com/en/projects). Pre
  
  
 </table>
-### Contact
-Phone: 01711368394
-Mail: mniprince@gmail.com
 
-
-### My Work
-<img src="https://user-images.githubusercontent.com/40088619/98977768-2cd31680-2543-11eb-9a57-3f0fc1077189.gif" align="left" /></a>
-<img src="https://user-images.githubusercontent.com/40088619/98977750-280e6280-2543-11eb-916e-4aa4828d5736.gif" align="right"  /></a>
 </br>
 
+### My Work
+<img src="https://user-images.githubusercontent.com/40088619/98977768-2cd31680-2543-11eb-9a57-3f0fc1077189.gif" align="left" width="49%"/>
+<img src="https://user-images.githubusercontent.com/40088619/98977750-280e6280-2543-11eb-916e-4aa4828d5736.gif" align="right" width="49%"/>
+</br>
 
+</br></br>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mniprince&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img width="41%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=mniprince&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
+
+</br></br>### 🤝 Connect with me:
+
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mniprince@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/+8801711368394) 
 
 
 
