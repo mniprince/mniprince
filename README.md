@@ -86,7 +86,7 @@ Latest **Source Code** for paid projects; **Live Projects** attached below.
       </a>
       <br />
       <strong>Shokher tola 80 taka</strong><br />
-      Production full-stack ecommerce monorepo<br />
+      Production full-stack ecommerce<br />
       <a href="https://shokhertola80taka.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
       <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
     </td>
@@ -107,7 +107,7 @@ Latest **Source Code** for paid projects; **Live Projects** attached below.
         <img src="./assets/projects/gomamu.png" alt="Leather ecommerce" width="400" />
       </a>
       <br />
-      <strong>Tulos</strong><br />
+      <strong>Go Mamu</strong><br />
       Full-stack ecommerce — Laravel<br />
       <a href="https://www.gomamu.com/"><img src="./assets/buttons/live.svg" alt="Live" height="32" /></a>
       <a href="https://princefullstack.com/"><img src="./assets/buttons/source.svg" alt="Source" height="32" /></a>
